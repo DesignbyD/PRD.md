@@ -1,2 +1,1 @@
-# PRD.md
-This is my first .md file on GitHub.
+# About my first project on GitHub
